@@ -1,2 +1,2 @@
 # clicker-game
-haha yes autoclicker go brrrr
+<a href="index.html">Play</a>
